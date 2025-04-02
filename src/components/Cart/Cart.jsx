@@ -10,8 +10,7 @@ const Cart = ({ cart, handleRemoveFromCart }) => {
                     <img src={bottle.img} alt="" />
                     <button onClick={() => handleRemoveFromCart(bottle.id)}>Remove</button>
                     </div>
-                         
-                        )
+                    )
                 }
             </div>
         </div>

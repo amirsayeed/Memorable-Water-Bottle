@@ -1,6 +1,5 @@
 import './App.css'
 import Bottles from './components/Bottles/Bottles'
-import Cart from './components/Cart/Cart'
 
 function App() {
 
